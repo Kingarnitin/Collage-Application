@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050675253945",
+    "project_id": "prmcem-engineering-amravati",
+    "storage_bucket": "prmcem-engineering-amravati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050675253945:android:2e55092b7d9a58c8b80168",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXwdV6U1TYFJwSmXWYCDLKEf65ItaSIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
